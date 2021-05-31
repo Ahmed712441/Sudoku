@@ -6,5 +6,5 @@ solver.py is given 9x9 array and solve it<br/>
 inside Data folder you will find:<br/>
   collector.py the algorithm that i used to collect data<br/>
   digits2.ipynb the jupyter notebook in which i created the CNN <br/>
-  and aslo you will find the data that i have collected
-
+  and aslo you will find the data that i have collected<br>
+if you want run the program you need to install the dependencies and give it the image path as input
