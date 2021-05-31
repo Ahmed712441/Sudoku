@@ -1,5 +1,5 @@
 # Sudoku
-This program solves scanned sudoku images examples of this images is provided
+This program solves scanned sudoku images examples of this images is provided \n
 if the program detects a wrong number it will put zeros in all empty places
 sudoko_detector.py is the file which detect the sudoku table and squares and fill the empty places
 solver.py is given 9x9 array and solve it
