@@ -8,3 +8,19 @@ inside Data folder you will find:<br/>
   digits2.ipynb the jupyter notebook in which i created the CNN <br/>
   and aslo you will find the data that i have collected<br>
 # if you to want run the program you need to install the dependencies and give it the image path as input
+# dependencies :
+opencv
+tensorflow 
+numpy
+
+# Correct detection Example :
+input:
+![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/h1.png?raw=true)
+output:
+![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/solved.jpg?raw=true)
+
+# False detection Example :
+input:
+![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/false%20detection.jpg?raw=true)
+output:
+![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/missed.jpg?raw=true)
