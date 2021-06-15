@@ -9,18 +9,18 @@ inside Data folder you will find:<br/>
   and aslo you will find the data that i have collected<br>
 # if you to want run the program you need to install the dependencies and give it the image path as input
 # dependencies :
-opencv
-tensorflow 
-numpy
+opencv<br/>
+tensorflow <br/>
+numpy<br/>
 
 # Correct detection Example :
-input:
-![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/h1.png?raw=true)
-output:
-![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/solved.jpg?raw=true)
+input:<br/>
+![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/h1.png?raw=true)<br/>
+output:<br/>
+![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/solved.jpg?raw=true)<br/>
 
 # False detection Example :
-input:
-![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/false%20detection.jpg?raw=true)
-output:
+input:<br/>
+![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/false%20detection.jpg?raw=true)<br/>
+output:<br/>
 ![alt text](https://github.com/Ahmed712441/Sudoku_Scanner/blob/master/missed.jpg?raw=true)
